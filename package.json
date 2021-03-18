@@ -1,8 +1,8 @@
 {
   "name": "underdot-collection",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Content collections for Underdot",
   "main": "index.js",
-  "author": "",
+  "author": "Cameron Spencer <cameron@lab43.com> (https://www.lab43.com)",
   "license": "ISC"
 }
